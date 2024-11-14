@@ -49,9 +49,11 @@ When a face is detected, the model will output one of the following emotions:
 
 - Happy
 - Sad
-- Surprise
+- Surprised
 - Anger
 - Neutral
+- Fear
+- Disgust
 
 These results will appear on the screen in real time as the video feed progresses.
 

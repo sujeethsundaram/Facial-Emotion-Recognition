@@ -60,8 +60,8 @@ These results will appear on the screen in real time as the video feed progresse
 ## **Future Improvements**
 - Data Augmentation: Enhance the model's ability to generalize better in varying conditions.
 - Mobile Optimization: Adapt the system to run efficiently on mobile devices with limited resources.
-- Additional Emotion Recognition: Add more nuanced emotion categories such as fear and disgust.
-- Advanced Error Handling: Improve the system to better handle edge cases like occlusions or partially visible faces.
+- Additional Emotion Recognition: Add more nuanced emotion categories.
+- Advanced Error Handling: Improve the system's handling of edge cases like occlusions or partially visible faces.
 
 ## **Contributing**
 We welcome contributions! To contribute:

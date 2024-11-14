@@ -1,4 +1,4 @@
-# **Real-Time Facial Emotion Detection Using CNNs**
+# **Facial-Emotion-Recognition**
 
 ## **Overview**
 This project implements a **real-time facial emotion detection system** using **Convolutional Neural Networks (CNNs)**. The system can identify emotions like **happiness**, **sadness**, **anger**, **surprise**, and others based on live video feed from a camera.
@@ -20,4 +20,5 @@ This project implements a **real-time facial emotion detection system** using **
 
 ### **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/facial-emotion-detection.git
+git clone https://github.com/sujeethsundaram/Facial-Emotion-Recognition.git
+
